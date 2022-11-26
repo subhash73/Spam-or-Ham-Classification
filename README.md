@@ -47,3 +47,11 @@ token_pattern = (?u)\b\w\w+\b
 The token_pattern parameter has a default regular expression value of (?u)\b\w\w+\b which ignores all punctuation marks and treats them as delimiters, while accepting alphanumeric strings of length greater than or equal to 2, as individual tokens or words.
 stop_words
 The stop_words parameter, if set to english will remove all words from our document set that match a list of English stop words which is defined in scikit-learn. Considering the size of our dataset and the fact that we are dealing with SMS messages and not larger text sources like e-mail, we will not be setting this parameter value.
+
+# Model Building
+![pasted image 0](https://user-images.githubusercontent.com/67859800/204078555-623fe396-4d14-4f91-85e8-f2c4ef70015d.png)
+
+# Evaluation
+![1_CS-OYdiRLCBMBiOpEURy0g](https://user-images.githubusercontent.com/67859800/204078579-0f275b3e-9b85-48b7-a282-7904db797370.png)
+
+
