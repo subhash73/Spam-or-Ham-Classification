@@ -54,4 +54,8 @@ The stop_words parameter, if set to english will remove all words from our docum
 # Evaluation
 ![1_CS-OYdiRLCBMBiOpEURy0g](https://user-images.githubusercontent.com/67859800/204078579-0f275b3e-9b85-48b7-a282-7904db797370.png)
 
+Accuracy score: 0.9847533632286996
+Precision score: 0.9420289855072463
+Recall score: 0.935251798561151
+F1 score: 0.9386281588447652
 
